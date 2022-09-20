@@ -1,1 +1,10 @@
 This is demo code for 23JulyBatch
+
+
+we are working on Git Functionality
+Topic covered 
+opp
+collection FrameWork
+DB
+
+need to update code
